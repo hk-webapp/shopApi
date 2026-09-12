@@ -7,7 +7,7 @@
       "id": 1,
       "images": {
         "main": {
-          "url": ["./images/products/beauty1.webp"]
+          "url": ["https://hk-webapp.github.io/shopHost/images/products/beauty1.webp"]
         }
       },
       "rating": {
@@ -30,7 +30,7 @@
       "id": 2,
       "images": {
         "main": {
-          "url": ["./images/products/beauty2.webp"]
+          "url": ["https://hk-webapp.github.io/shopHost/images/products/beauty2.webp"]
         }
       },
       "rating": {
@@ -53,7 +53,7 @@
       "id": 3,
       "images": {
         "main": {
-          "url": ["./images/products/beauty3.webp"]
+          "url": ["https://hk-webapp.github.io/shopHost/images/products/beauty3.webp"]
         }
       },
       "rating": {
@@ -76,7 +76,7 @@
       "id": 4,
       "images": {
         "main": {
-          "url": ["./images/products/beauty4.webp"]
+          "url": ["https://hk-webapp.github.io/shopHost/images/products/beauty4.webp"]
         }
       },
       "rating": {
@@ -99,7 +99,7 @@
       "id": 5,
       "images": {
         "main": {
-          "url": ["./images/products/beauty5.webp"]
+          "url": ["https://hk-webapp.github.io/shopHost/images/products/beauty5.webp"]
         }
       },
       "rating": {
@@ -122,7 +122,7 @@
       "id": 6,
       "images": {
         "main": {
-          "url": ["./images/products/beauty6.webp"]
+          "url": ["https://hk-webapp.github.io/shopHost/images/products/beauty6.webp"]
         }
       },
       "rating": {
@@ -145,7 +145,7 @@
       "id": 7,
       "images": {
         "main": {
-          "url": ["./images/products/kitchen1.webp"]
+          "url": ["https://hk-webapp.github.io/shopHost/images/products/kitchen1.webp"]
         }
       },
       "rating": {
@@ -168,7 +168,7 @@
       "id": 8,
       "images": {
         "main": {
-          "url": ["./images/products/kitchen2.webp"]
+          "url": ["https://hk-webapp.github.io/shopHost/images/products/kitchen2.webp"]
         }
       },
       "rating": {
